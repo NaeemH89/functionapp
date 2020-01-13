@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bitcket3", "Bitcket3\Bitcket3.csproj", "{3D5FDCA7-3243-4F7F-A8D4-0AB6D6DBFBF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D5FDCA7-3243-4F7F-A8D4-0AB6D6DBFBF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D5FDCA7-3243-4F7F-A8D4-0AB6D6DBFBF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D5FDCA7-3243-4F7F-A8D4-0AB6D6DBFBF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D5FDCA7-3243-4F7F-A8D4-0AB6D6DBFBF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F068F87B-6D3B-46A7-B81E-32CAFC40337F}
+	EndGlobalSection
+EndGlobal
